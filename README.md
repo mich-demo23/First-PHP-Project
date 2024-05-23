@@ -1,6 +1,6 @@
 ## 🐘 My first project during the course of my learning of php
 
-An app that read a transaction file and displays the data on a webpage.
+An app that reads a transaction file and displays the data on a webpage.
 
 ## 🛠️ HOW TO USE THIS REPO
 1. [Fork](https://github.com/mich-demo23/first-php-project/fork) the project. Click on the icon in the top right to get started
